@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdacleofe
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning modern javascript by net ninja
+- 🌱 I’m currently learning modern javascript by net ninja 
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
